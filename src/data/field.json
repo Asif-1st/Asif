@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Problem Solving",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita consequuntur itaque rem ipsum repellat voluptate facere dolores consequatur dolorum nisi. lorem251 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam cum soluta laudantium, quos nobis voluptates velit iusto optio recusandae maiores! Itaque cum optio ipsum laborum illum repudiandae ullam similique libero!",
+        "bgColor": "bg-gray-100",
+        "bgHover": "hover:bg-gray-200"
+    },
+    {
+        "id": 2,
+        "title": "Tectnology Enthusiast",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita consequuntur itaque rem ipsum repellat voluptate facere dolores consequatur dolorum nisi. lorem251 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam cum soluta laudantium, quos nobis voluptates velit iusto optio recusandae maiores! Itaque cum optio ipsum laborum illum repudiandae ullam similique libero!",
+        "bgColor": "bg-indigo-100" , 
+        "bgHover": "bg-indigo-200"
+      }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "New Blog Website",
+        "rating":"(5)",
+        "imgUrl": "https://semantic-ui.com/images/wireframe/white-image.png"
+    },
+    {
+        "id": 2,
+        "name": "Cleaning Comunity Website",
+        "rating": "(5)",
+        "imgUrl": "https://semantic-ui.com/images/wireframe/white-image.png"
+    },
+    {
+        "id": 3,
+        "name": "Corporate Management Website",
+        "rating": "(4.5)",
+        "imgUrl": "https://semantic-ui.com/images/wireframe/white-image.png"
+    }, 
+    {
+        "id": 4,
+        "name": "Bob Brown",
+        "rating":"(5)",
+        "imgUrl": "https://semantic-ui.com/images/wireframe/white-image.png"
+    },
+    {
+        "id": 5,
+        "name": "Enterno Website",
+        "rating":"(4.5)",
+        "imgUrl": "https://semantic-ui.com/images/wireframe/white-image.png"
+    },
+    {
+        "id": 6,
+        "name": "David Wilson",
+        "rating":"(5)",
+        "imgUrl": "https://semantic-ui.com/images/wireframe/white-image.png"
+    },
+    {
+        "id": 7,
+        "name": "Sarah Thompson",
+        "email": "sarah.thompson@example.com",
+        "phone": "+1 555-555-5555",
+        "message": "I'm looking for a freelance project in React and Vue.js."
+    },
+    {
+        "id": 8,
+        "name": "Michael Lee",
+        "email": "michael.lee@example.com",
+        "phone": "+1 666-666-6666",
+        "message": "I need help creating a responsive website with React and Angular."
+    },
+    {
+        "id": 9,
+        "name": "Jessica Johnson",
+        "email": "jessica.johnson@example.com",
+        "phone": "+1 777-777-7777",
+        "message": "I'm looking for a freelance project in React and Flutter."
+    },
+    {
+        "id": 10,
+        "name": "Daniel Williams",
+        "email": "daniel.williams@example.com",
+        "phone": "+1 888-888-8888",
+        "message": "I need help creating a responsive website with React and Ruby on Rails."
+    }
+]
